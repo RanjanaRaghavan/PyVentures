@@ -6,7 +6,7 @@ Welcome to **Day 1** of my Python learning journey! Today, I explored Python fun
 
 ## Table of Contents  
 
-1. [Hello World](#hello-world) 🌍 
+1. [Hello World](#hello-world) 
 2. [Your Name and Age ](#your-name-and-age)  🤔
 3. [Hogwarts Connect: If-Else Statements ](#hogwarts-connect-if-else-statements)  🪄
 4. [Sheldon’s While Loops ](#sheldon’s-while-loops)  🛋️
