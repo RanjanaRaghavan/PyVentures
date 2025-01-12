@@ -19,7 +19,7 @@ Welcome to **Day 1** of my Python learning journey! Today, I explored Python fun
 
 ## Details  
 
-### Hello World 🌍  
+### Hello World 
 **Script**: [hello_world.py](Hello_World.ipynb)  
 The classic first step into any programming language, where the computer simply says hello to the world!  
 
