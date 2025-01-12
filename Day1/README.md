@@ -6,20 +6,20 @@ Welcome to **Day 1** of my Python learning journey! Today, I explored Python fun
 
 ## Table of Contents  
 
-1. [Hello World](#hello-world) 
-2. [Your Name and Age 🤔](#your-name-and-age-🤔)  
-3. [Hogwarts Connect: If-Else Statements 🪄](#hogwarts-connect-if-else-statements-🪄)  
-4. [Sheldon’s While Loops 🛋️](#sheldon’s-while-loops-🛋️)  
-5. [Range and Loops 🔁](#range-and-loops-🔁)  
-6. [The Squid Games 🦑](#the-squid-games-🦑)  
-7. [Functions and Games 🎮](#functions-and-games-🎮)  
-8. [Lists and Beyond 📜](#lists-and-beyond-📜)  
+1. [Hello World](#hello-world) 🌍 
+2. [Your Name and Age ](#your-name-and-age)  🤔
+3. [Hogwarts Connect: If-Else Statements ](#hogwarts-connect-if-else-statements)  🪄
+4. [Sheldon’s While Loops ](#sheldon’s-while-loops)  🛋️
+5. [Range and Loops ](#range-and-loops)  🔁
+6. [The Squid Games](#the-squid-games)  🦑
+7. [Functions and Games](#functions-and-games) 🎮 
+8. [Lists and Beyond](#lists-and-beyond) 📜 
 
 ---
 
 ## Details  
 
-### Hello World 
+### Hello World 🌍
 **Script**: [hello_world.py](Hello_World.ipynb)  
 The classic first step into any programming language, where the computer simply says hello to the world!  
 
