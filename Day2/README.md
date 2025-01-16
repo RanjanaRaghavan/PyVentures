@@ -18,27 +18,27 @@ Welcome to **Day 2** of my Python learning journey! Today, I delved deeper into 
 ## Details  
 
 ### File Handling 🗂️  
-**Script**: [Files.ipynb](#)  
+**Script**: [Files.ipynb](Files.ipynb)   
 In this section, I worked on **reading**, **writing**, and **appending** to text files. This is crucial for working with persistent data, such as saving results to a file or processing data stored externally.
 
 ### Error Handling & Logging ⚠️  
-**Script**: [error_handling.ipynb](#)  
+**Script**: [error_handling.ipynb](Exception.ipynb)  
 I learned to use **try-except** blocks to manage exceptions, and utilized the `traceback` module to log detailed error information to a file. I also explored **assert** statements and logging messages with various severity levels.
 
 ### Web Scraping with BeautifulSoup 🌐  
-**Script**: [htmlParser.ipynb](#)  
+**Script**: [web_scraping.ipynb](htmlParser.ipynb)  
 I used **requests** and **BeautifulSoup** to fetch content from a Wikipedia page. By parsing the page, I was able to extract the title of the article dynamically, a useful technique for web scraping.
 
 ### Data Manipulation with Pandas 📊  
-**Script**: [htmlParser.ipynb](#)  
+**Script**: [data_manipulation.ipynb](htmlParser.ipynb)  
 Here, I explored **pandas** for data manipulation. I cleaned and transformed CSV data, handled missing values, and sorted the data based on the 'median_income' column to gain insights into the dataset.
 
 ### Working with Dictionaries 📚  
-**Script**: [dictionary.ipynb](#)  
+**Script**: [dictionary.ipynb](dictionary.ipynb)  
 In this section, I worked with **dictionaries** to store and manipulate data. I practiced adding, updating, and deleting dictionary entries, and also used dictionaries for counting letter occurrences in a string.
 
 ### Tic Tac Toe Game 🎮  
-**Script**: [ticTacToe.ipynb](#)  
+**Script**: [ticTacToe.ipynb](ticTacToe.ipynb)  
 I created a simple **Tic Tac Toe** game where a player competes against the computer. The game includes dynamic board updates, error handling for invalid inputs, and checks for winning combinations.
 
 ---
